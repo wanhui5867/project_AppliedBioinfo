@@ -10,17 +10,15 @@ https://stringdb-static.org/download/protein.links.v11.0/9606.protein.links.v11.
 https://stockholmuniversity.box.com/s/n8l0l1b3tg32wrzg2ensg8dnt7oua8ex
 
 ## Requirements
-python 3
-numpy
-pandas
-networkx
-matplotlib
-seaborn
+python 3 
+numpy.  
+pandas.  
+networkx.  
+matplotlib. 
+seaborn. 
 
 ## Usage
 `
-make download
-`
-`
+make download   
 make execute
 `
